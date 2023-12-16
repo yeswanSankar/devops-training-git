@@ -23,8 +23,8 @@ app.get('/', (req, res) => {
             <title> <h2> YASH GIT-HUB PROJECT FOR NODE.JS APP </h2> </title>
         </head>
         <body>
-            <h1>Welcome to Cloud aseem Youtube channel ,Please share & subscribe , Thank you very much for 200 subscribers , keep loving , thankyou <3 </h1>
-            <p>Don't forget to subscribe & share with friends</p>
+            <p><img src="smiley.gif" alt="Smiley face" style="float:right;width:42px;height:42px;">
+                The image will float to the right of the text.</p>
         </body>
         </html>
     `);
