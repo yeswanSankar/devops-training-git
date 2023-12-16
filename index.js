@@ -24,7 +24,7 @@ app.get('/', (req, res) => {
         </head>
         <body>
             <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
-                The image will float to the right of the text.</p>
+                <p> The image will float to the right of the text.</p>
         </body>
         </html>
     `);
