@@ -20,10 +20,10 @@ app.get('/', (req, res) => {
                     padding: 50px;
                 }
             </style>
-            <title> <h2> YASH GIT-HUB PROJECT FOR NODE.JS APP </h2> </title>
+            <title> YASH GIT-HUB PROJECT FOR NODE.JS APP </title>
         </head>
         <body>
-            <p><img src="smiley.gif" alt="Smiley face" style="float:right;width:42px;height:42px;">
+            <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
                 The image will float to the right of the text.</p>
         </body>
         </html>
